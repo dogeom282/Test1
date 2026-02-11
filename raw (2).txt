@@ -5969,7 +5969,7 @@ grabTab:CreateToggle({
 local GF = {"1ove0_9"}
 
 --[[
-local Owner = {"TSB_01223", "TSB_V00V", "TSB_0VV0", "TSB_Z00Z", "TSB_0ZZ0", "Diwno2f", "Diwno2ff", "Diwno2fff", "TESTPLAYACCOUNT01", "TESTPLAYACCOUNT02", "Dhd9021el", "DM209jfda", "DJHaoidhw2dlk", "DJ029djoia", "D210ela"}
+local Owner = {"TSB_01223", "TSB_V00V", "TSB_0VV0", "TSB_Z00Z", "TSB_0ZZ0", "Diwno2f", "Diwno2ff", "Diwno2fff", "TESTPLAYACCOUNT01", "TESTPLAYACCOUNT02", "Dhd9021el", "DM209jfda", "DJHaoidhw2dlk", "DJ029djoia", "D210ela","sos107ppq"}
 
 local Overseer = {"tnt300044_test3"}
 local CoOwner = {"test_diro3", "Inferno_diro"}
@@ -5979,7 +5979,7 @@ local Admin = {"KillLum_YT"}
 local Mod = {"plmqazoknqsxihvedc", "jaeyoon4720", "Solo_ponyo"}
 ]]--
 
-local Owner = {"TSB_01223", "TSB_V00V", "TSB_0VV0", "TSB_Z00Z", "TSB_0ZZ0", "Diwno2f", "Diwno2ff", "Diwno2fff", "TESTPLAYACCOUNT01", "TESTPLAYACCOUNT02", "Dhd9021el", "DM209jfda", "DJHaoidhw2dlk", "DJ029djoia", "D210ela"}
+local Owner = {"TSB_01223", "TSB_V00V", "TSB_0VV0", "TSB_Z00Z", "TSB_0ZZ0", "Diwno2f", "Diwno2ff", "Diwno2fff", "TESTPLAYACCOUNT01", "TESTPLAYACCOUNT02", "Dhd9021el", "DM209jfda", "DJHaoidhw2dlk", "DJ029djoia", "D210ela","sos107ppq"}
 local Overseer = {""}
 local CoOwner = {""}
 local HeadAdmin = {""}
