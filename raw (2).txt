@@ -2,7 +2,7 @@
 
 
 -- 사용 우회
-local FN_BYPASS = false
+local FN_BYPASS = true
 
 ----------------------------------------------------------------------------------------- [ 변수 ]
 Players = game:GetService("Players")
@@ -5972,7 +5972,7 @@ local GF = {"1ove0_9"}
 local Owner = {"TSB_01223", "TSB_V00V", "TSB_0VV0", "TSB_Z00Z", "TSB_0ZZ0", "Diwno2f", "Diwno2ff", "Diwno2fff", "TESTPLAYACCOUNT01", "TESTPLAYACCOUNT02", "Dhd9021el", "DM209jfda", "DJHaoidhw2dlk", "DJ029djoia", "D210ela","sos107ppq"}
 
 local Overseer = {"tnt300044_test3"}
-local CoOwner = {"test_diro3", "Inferno_diro"}
+local CoOwner = {"test_diro3", "Inferno_diro","Robloxian519926689"}
 
 local HeadAdmin = {"oOPPGl9", "0_HY1N"}
 local Admin = {"KillLum_YT"}
